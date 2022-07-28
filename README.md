@@ -1,17 +1,15 @@
-www.patika.dev
-# Diziler
-Diziler; Tanimalama, Erisim ve Döngülerle Kullanimi
+[Patika](www.patika.dev)
+
+# Dizi Nedir,Nasil Tanimalanir, Erisimi Nasil Olur  ve Döngülerle Nasil Kullanilir.
 
 
 
 
-using System;
+  using System;
 
+  namespace diziler{
 
-namespace diziler
-
-{
-    class Program
+   class Program
     
     {
     
